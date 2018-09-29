@@ -43,6 +43,9 @@ And note that the evalutor takes a batch of samples as input and returns a list 
 
 To run the optimizer, we first should set the range (if there is a restriction) and the number of evaluation.
 
+There are several examples of previous proposed algorithms in the example directory, tested with CEC benchmarks.
+For easilly reproducing the results on the standard benchmarks, we also provides the benchmarks package at `https://github.com/wead-hsu/ec-benchmarks`, where the uasage of the benchmark package is illustrated.
+
 Contact
 ----
 [Computational Intelligence Laboratory (CIL), Peking University](www.cil.pku.edu.cn)
