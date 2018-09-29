@@ -4,7 +4,7 @@ Introduction
 ---
 Firework algorithm (FWA) is a novel derivation-free optimization algorithm, based on the interaction among the swarm.
 
-The FWA mimics the procedure the explosion of fireworks, where stronger firework explodes into more sparks.
+The FWA mimics the procedure of the firework explosion, where stronger firework explodes into more sparks.
 To get the details of the FWA, we refer you to the [original paper](http://www.cil.pku.edu.cn/publications/papers/ICSI2010zhuyuanchun.pdf).
 
 This package provides easy acess to the advanced variants of FWA, maintained by the Computational Intelligence Laboratory (CIL), Peking University.
@@ -51,6 +51,6 @@ Contact
 [Computational Intelligence Laboratory (CIL), Peking University](www.cil.pku.edu.cn)
 
 - Maintainer: 
-	- Weidi Xu (wead_hsu at pku.edu.cn)
+	- Weidi Xu (wead_hsu@pku.edu.cn)
 	- Yifeng Li (yfli@pku.edu.cn)
 
