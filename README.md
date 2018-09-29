@@ -7,7 +7,7 @@ Firework algorithm (FWA) is a novel derivation-free optimization algorithm, base
 The FWA mimics the procedure the explosion of fireworks, where stronger firework explodes into more sparks.
 To get the details of the FWA, we refer you to the [original paper](http://www.cil.pku.edu.cn/publications/papers/ICSI2010zhuyuanchun.pdf).
 
-This package provides easy acess to the advanced variants of FWA. This repository is maintained by the Computational Intelligence Laboratory (CIL), Peking University.
+This package provides easy acess to the advanced variants of FWA, maintained by the Computational Intelligence Laboratory (CIL), Peking University.
 
 Install
 ---
@@ -38,13 +38,12 @@ result = algo.run()
 ```
 
 The algorithm in this package minimizes the objective function. Therefore, if you want to maximize instead, convert the objectve function by changing the sign of the fitness.
-
 And note that the evalutor takes a batch of samples as input and returns a list of scalars.
 
 To run the optimizer, we first should set the range (if there is a restriction) and the number of evaluation.
 
 There are several examples of previous proposed algorithms in the example directory, tested with CEC benchmarks.
-For easilly reproducing the results on the standard benchmarks, we also provides the benchmarks package at `https://github.com/wead-hsu/ec-benchmarks`, where the uasage of the benchmark package is illustrated.
+For easilly reproducing the results on the standard benchmarks, we also provides the benchmarks package at [https://github.com/wead-hsu/ec-benchmarks](https://github.com/wead-hsu/ec-benchmarks), where the uasage of the benchmark package is illustrated.
 
 Contact
 ----
